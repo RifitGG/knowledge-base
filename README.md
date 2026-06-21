@@ -46,7 +46,6 @@ npm run dev
 
 - `backend/` — FastAPI приложение, модели, миграции и сиды
 - `frontend/` — React-приложение, UI строго по макету Figma
-- `figma_previews/` — PNG-рендеры макетов для сверки дизайна
 
 ## Иконки и логотип
 
