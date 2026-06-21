@@ -2,8 +2,11 @@
 
 Веб-платформа корпоративной базы знаний с централизованным хранилищем информации, ролевой моделью доступа, системой уведомлений, редактором статей и административной панелью.
 
-![Скриншот Название](https://github.com/RifitGG/knowledge-base/blob/main/Снимок%20экрана%202026-06-20%20112316.png)
-
+![Главный экран приложения](https://github.com/RifitGG/knowledge-base/blob/main/Снимок%20экрана%202026-06-20%20112316.png)
+---
+![Раздел в статье](https://github.com/RifitGG/knowledge-base/blob/main/Снимок%20экрана%202026-06-20%20112640.png)
+---
+![Админ панель](https://github.com/RifitGG/knowledge-base/blob/main/Снимок%20экрана%202026-06-20%20085829.png)
 ## Стек
 
 - **Frontend**: React + TypeScript + Vite, TailwindCSS + LessCSS
