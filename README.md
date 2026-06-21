@@ -51,4 +51,4 @@ npm run dev
 ## Иконки и логотип
 
 - Иконки: `lucide-react` (ISC) — все визуальные иконки настоящие векторные, единый API через `components/Icon.tsx`
-- Логотип: если вы положите файл `frontend/public/rus-svet-logo.svg` или `.png`, компонент `components/Logo.tsx` автоматически подхватит его. Без файла рисуется бренд-совместимый векторный знак.
+- Логотип: если вы положите файл `frontend/public/rus-svet-logo.svg` или `.png`, компонент `components/Logo.tsx` автоматически подхватит его.
