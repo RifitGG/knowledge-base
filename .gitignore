@@ -1,0 +1,17 @@
+backend/.venv/
+backend/__pycache__/
+backend/app/__pycache__/
+backend/**/__pycache__/
+frontend/node_modules/
+frontend/dist/
+frontend/**/*.tsbuildinfo
+# Emitted JS from accidental tsc runs — real source is .ts/.tsx only
+frontend/src/**/*.js
+frontend/src/**/*.jsx
+frontend/src/**/*.js.map
+frontend/src/**/*.d.ts
+.vscode/
+.idea/
+*.log
+backend/.env
+backend/uploads/
